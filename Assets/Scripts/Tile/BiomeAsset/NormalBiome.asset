@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3816d3da7cac94d0e98dee8fc3d6b7be, type: 3}
+  m_Name: NormalBiome
+  m_EditorClassIdentifier: 
+  <biomeName>k__BackingField: normal
+  <heightAddtion>k__BackingField: 100
+  <heightMulti>k__BackingField: 60
+  <caveThreshold>k__BackingField: 0.519
+  <caveScale>k__BackingField: 0.231
+  <plantsThreshold>k__BackingField: 0.571
+  <plantsFrequncy>k__BackingField: 0.425
+  <treeThreshold>k__BackingField: 0.557
+  <treeFrequncy>k__BackingField: 0.179
+  <treeHeight>k__BackingField: {x: 8, y: 15}
+  <heightScale>k__BackingField: 0.085
+  <ores>k__BackingField:
+  - {fileID: 11400000, guid: 121948aa5e73a274b9a453c0880a5f71, type: 2}
+  - {fileID: 11400000, guid: c7948a1e9fdd9ee4098a1e5a65f2d82c, type: 2}
+  <tileAtlas>k__BackingField: {fileID: 11400000, guid: bc9d34a90e25c44a4a6756563c97ebb9, type: 2}

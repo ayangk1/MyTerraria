@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b2c64c0b8134a6eb9ad02fbcead492, type: 3}
+  m_Name: CorruptedBiomeTileAtlas
+  m_EditorClassIdentifier: 
+  surfaceBlock: {fileID: 11400000, guid: 2e61bd39a0bea45c583b301c5d5d33d3, type: 2}
+  underSurfaceBlock: {fileID: 11400000, guid: 2e61bd39a0bea45c583b301c5d5d33d3, type: 2}
+  stoneBlock: {fileID: 11400000, guid: f698470301b23436eab3c6c89248d3b4, type: 2}
+  surfaceWall: {fileID: 11400000, guid: 34526599e4997f147a4ed38f6b24915d, type: 2}
+  stoneWall: {fileID: 11400000, guid: 06487d61afd6f284a86883fa638f7647, type: 2}
+  plants: {fileID: 11400000, guid: 00ad0e024910a924d93202afeb0b3b67, type: 2}
+  tree: {fileID: 11400000, guid: 420ea7ba6a81a4da9b0252b1d64cf8ab, type: 2}

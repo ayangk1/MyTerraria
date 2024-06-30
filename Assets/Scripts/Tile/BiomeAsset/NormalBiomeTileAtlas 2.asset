@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b2c64c0b8134a6eb9ad02fbcead492, type: 3}
+  m_Name: NormalBiomeTileAtlas 2
+  m_EditorClassIdentifier: 
+  surfaceBlock: {fileID: 11400000, guid: 6e90e33a141fed748b52200cc58f5f8c, type: 2}
+  underSurfaceBlock: {fileID: 11400000, guid: 47cd2f97406953146b54fe5d71aad7f7, type: 2}
+  stoneBlock: {fileID: 11400000, guid: ff98ace0baf665246a97f2f8d293e7c6, type: 2}
+  surfaceWall: {fileID: 11400000, guid: 34526599e4997f147a4ed38f6b24915d, type: 2}
+  stoneWall: {fileID: 11400000, guid: 06487d61afd6f284a86883fa638f7647, type: 2}
+  plants: {fileID: 11400000, guid: 00ad0e024910a924d93202afeb0b3b67, type: 2}
+  tree: {fileID: 11400000, guid: ed4a2a473313beb419ceb7a9eaef74fe, type: 2}

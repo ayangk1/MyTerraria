@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8964b055865911f4bbca57dc80a63e46, type: 3}
+  m_Name: ItemAtlas
+  m_EditorClassIdentifier: 
+  allItems:
+  - {fileID: 11400000, guid: d2b39233b787cb44f9cbc0815d25854b, type: 2}
+  - {fileID: 11400000, guid: cc89180a4d3340a4faebfbdf9b61c9be, type: 2}
+  - {fileID: 11400000, guid: 5fbb3bb7f71f91f419aaad0e40873b1f, type: 2}
+  - {fileID: 11400000, guid: e0dc611cb953f458f8a53c18784cc892, type: 2}
+  - {fileID: 11400000, guid: bb3866cc4b4ba4b10baaba34aac3b3c7, type: 2}
+  - {fileID: 11400000, guid: 859b7e5db57fb458092f2e6187e5c9e6, type: 2}
+  - {fileID: 11400000, guid: 9e8cf6af2e8dc44cc951b6e281c781ee, type: 2}
+  - {fileID: 11400000, guid: 352fade9c5ecf44b5b528d3d845b896c, type: 2}
+  - {fileID: 11400000, guid: 322052f83fc6347deacba36a39eba5ab, type: 2}
+  - {fileID: 11400000, guid: 5fbb3bb7f71f91f419aaad0e40873b1f, type: 2}
+  - {fileID: 11400000, guid: 9069ee75bd1ca4b098f854fa2e3c7db2, type: 2}
+  - {fileID: 11400000, guid: 3de2277e703ec4acea5216e35a5b78db, type: 2}
+  - {fileID: 11400000, guid: 2a4b55a18db1842a3ade24f492426390, type: 2}
+  - {fileID: 11400000, guid: e97ea930c9a814701bf0effaf6d2907c, type: 2}
+  - {fileID: 11400000, guid: ef208473196b9479a8807d496013450b, type: 2}
+  - {fileID: 11400000, guid: d861bee22307d844ba6dc8e7b2c0a147, type: 2}
+  - {fileID: 11400000, guid: 594d3b0c6672bed4daa4c79aa3e4deb9, type: 2}
+  - {fileID: 11400000, guid: ed00365d454e9483b9f358ca02606128, type: 2}
+  - {fileID: 11400000, guid: be098616d6e694bf2a75475d9083cdc4, type: 2}
+  - {fileID: 11400000, guid: 82a91dd8de33f446dbae4d07502cc35b, type: 2}
+  sword: {fileID: 11400000, guid: f4a9202e531fa3a48912af77c9f1ca22, type: 2}
+  pickax: {fileID: 11400000, guid: df62f27e7d4898540932f308c2a4fd1b, type: 2}
+  axe: {fileID: 11400000, guid: 2d4469ec773503c4eba7f035c17e6adb, type: 2}
+  Hammer: {fileID: 11400000, guid: 4483927a47bdb438ebc62d9ae59428b6, type: 2}
+  dirtBlock: {fileID: 11400000, guid: d861bee22307d844ba6dc8e7b2c0a147, type: 2}
+  gelItem: {fileID: 11400000, guid: 9e8cf6af2e8dc44cc951b6e281c781ee, type: 2}
+  torchItem: {fileID: 11400000, guid: 352fade9c5ecf44b5b528d3d845b896c, type: 2}

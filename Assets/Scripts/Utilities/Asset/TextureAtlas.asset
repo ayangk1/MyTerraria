@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c9ae5f8f952ea4c8c6794a16b02d7a, type: 3}
+  m_Name: TextureAtlas
+  m_EditorClassIdentifier: 
+  inventoryNormal: {fileID: 21300000, guid: 1af27aedfab97d648aebe2b470b63c3b, type: 3}
+  inventoryHighLight: {fileID: 21300000, guid: b7bab2e7538622e439784c90b1a5aaa9, type: 3}
+  bow: {fileID: 21300000, guid: 31d3ea947aa864e41b120978620ae912, type: 3}
+  axe: {fileID: 21300000, guid: 12c93242c5c3f31458102cb5bf560c97, type: 3}
+  sword: {fileID: 21300000, guid: 86ce91ffd62d8034f815ae5dbfb7aecf, type: 3}
+  pickaxe: {fileID: 21300000, guid: efea70af0339b0645bade9946be245de, type: 3}
+  hammer: {fileID: 21300000, guid: 9cf2de5e1944641f9be9fc37b0245d7e, type: 3}

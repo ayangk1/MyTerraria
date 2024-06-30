@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4031b96cbec65f24dab3b94349da606c, type: 3}
+  m_Name: CorruptDirt
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: df51ea4dd050441ee9b733d2c63a4c73, type: 2}
+  layer: 2
+  blockID: 0
+  item: {fileID: 11400000, guid: 2a4b55a18db1842a3ade24f492426390, type: 2}
+  lightLevel: 0
+  droprate: 100
+  isCover: 0
+  coverRange: {x: 1, y: 1}
+  isCollapse: 0
+  isIlluminate: 0

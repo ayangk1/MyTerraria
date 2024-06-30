@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c33018606bba74cae6025dd86f8c58, type: 3}
+  m_Name: PrefabsAtlas
+  m_EditorClassIdentifier: 
+  inventoryItem: {fileID: 94069772721855164, guid: 62422021f18a7484ba5f36e677c8c728, type: 3}
+  inventorySlot: {fileID: 2371971047435542573, guid: f833758fb1820b946af58e61192d0274, type: 3}
+  creationItem: {fileID: 94069772721855164, guid: b7c531772fefe477cbb4598cfd20f443, type: 3}
+  creationRaw: {fileID: 9199497879762239710, guid: e723aa701dfac4de58a87f3383b8fe5f, type: 3}
+  creationSlot: {fileID: 4046892640315037987, guid: 3e1122e087eeb384694ae2a24dd8e495, type: 3}
+  pickupItem: {fileID: 7846053732851916626, guid: 93bd064aae5d28f48b188321af6aa5bd, type: 3}
+  attackItem: {fileID: 6046971521247180452, guid: 211c273f45cd54f73a1f34bec5b7493e, type: 3}
+  slimeUmbrella: {fileID: 5468875339371332912, guid: af9d88f8b9ff34cc79adb855f8c7a355, type: 3}

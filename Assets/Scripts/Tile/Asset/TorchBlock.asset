@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4031b96cbec65f24dab3b94349da606c, type: 3}
+  m_Name: TorchBlock
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 6a4a1a39a957a8c4989370843ed76f7c, type: 2}
+  layer: 0
+  blockID: 0
+  item: {fileID: 11400000, guid: 352fade9c5ecf44b5b528d3d845b896c, type: 2}
+  lightLevel: 15
+  structure: 0
+  tree: 0
+  torch: 1
+  droprate: 100
+  isCover: 0
+  coverRange: {x: 1, y: 1}
+  isCollapse: 0
+  isIlluminate: 1
